@@ -1,0 +1,30 @@
+{
+  "name": "bw-modernization-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koojongin/bw-modernization-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koojongin/bw-modernization-project/issues"
+  },
+  "homepage": "https://github.com/koojongin/bw-modernization-project#readme",
+  "dependencies": {
+    "bw-chk": "^1.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.6.3"
+  }
+}
